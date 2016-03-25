@@ -1,0 +1,10 @@
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Model\bin\Debug\WebSolution.Model.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Model\bin\Debug\WebSolution.Model.pdb
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Model\obj\Debug\WebSolution.Model.csprojResolveAssemblyReference.cache
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Model\obj\Debug\WebSolution.Model.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Model\obj\Debug\WebSolution.Model.pdb
+C:\Development\Knockout\WebSolution\WebSolution.Model\bin\Debug\WebSolution.Model.dll
+C:\Development\Knockout\WebSolution\WebSolution.Model\bin\Debug\WebSolution.Model.pdb
+C:\Development\Knockout\WebSolution\WebSolution.Model\obj\Debug\WebSolution.Model.csprojResolveAssemblyReference.cache
+C:\Development\Knockout\WebSolution\WebSolution.Model\obj\Debug\WebSolution.Model.dll
+C:\Development\Knockout\WebSolution\WebSolution.Model\obj\Debug\WebSolution.Model.pdb

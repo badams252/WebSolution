@@ -1,0 +1,145 @@
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\csc.exe
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\vbc.exe
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\WebSolution.Web.dll.config
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\WebSolution.Web.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\WebSolution.Web.pdb
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Antlr3.Runtime.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\EntityFramework.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Newtonsoft.Json.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Owin.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.Helpers.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.Mvc.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.Optimization.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.Razor.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.WebPages.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\WebGrease.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\WebSolution.DataLayer.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\WebSolution.Model.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\WebSolution.DataLayer.pdb
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\WebSolution.Model.pdb
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.Helpers.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.Mvc.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.Optimization.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.Razor.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.WebPages.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Antlr3.Runtime.pdb
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Newtonsoft.Json.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\EntityFramework.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\obj\Debug\WebSolution.Web.csprojResolveAssemblyReference.cache
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\obj\Debug\WebSolution.Web.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.Web\obj\Debug\WebSolution.Web.pdb
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\csc.exe
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\vbc.exe
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\VBCSCompiler.exe
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\WebSolution.Web.dll.config
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\WebSolution.Web.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\WebSolution.Web.pdb
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Antlr3.Runtime.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\EntityFramework.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\EntityFramework.SqlServer.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Newtonsoft.Json.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Owin.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.Helpers.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.Optimization.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.Razor.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.WebPages.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.WebPages.Razor.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\WebGrease.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\WebSolution.DataLayer.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\WebSolution.Model.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\WebSolution.DataLayer.pdb
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\WebSolution.Model.pdb
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.Helpers.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.Mvc.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.Optimization.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.Razor.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.WebPages.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\System.Web.WebPages.Razor.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Antlr3.Runtime.pdb
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Newtonsoft.Json.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\EntityFramework.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\EntityFramework.SqlServer.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Development\Knockout\WebSolution\WebSolution.Web\obj\Debug\WebSolution.Web.csprojResolveAssemblyReference.cache
+C:\Development\Knockout\WebSolution\WebSolution.Web\obj\Debug\WebSolution.Web.dll
+C:\Development\Knockout\WebSolution\WebSolution.Web\obj\Debug\WebSolution.Web.pdb

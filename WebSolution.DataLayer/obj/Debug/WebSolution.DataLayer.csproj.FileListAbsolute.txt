@@ -1,0 +1,24 @@
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.DataLayer.dll.config
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.DataLayer.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.DataLayer.pdb
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.Model.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.Model.pdb
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\obj\Debug\WebSolution.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\obj\Debug\WebSolution.DataLayer.dll
+C:\Users\BADAMS\Documents\Visual Studio 2015\Projects\WebSolution\WebSolution.DataLayer\obj\Debug\WebSolution.DataLayer.pdb
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.DataLayer.dll.config
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.DataLayer.dll
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.DataLayer.pdb
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\EntityFramework.dll
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.Model.dll
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\WebSolution.Model.pdb
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\EntityFramework.xml
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\obj\Debug\WebSolution.DataLayer.csprojResolveAssemblyReference.cache
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\obj\Debug\WebSolution.DataLayer.dll
+C:\Development\Knockout\WebSolution\WebSolution.DataLayer\obj\Debug\WebSolution.DataLayer.pdb
